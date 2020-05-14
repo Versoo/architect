@@ -1,12 +1,12 @@
 {
-    "name": "optimus/architect",
+    "name": "versoo/architect",
     "autoload": {
         "psr-4": {
             "Optimus\\Architect\\": "src/"
         }
     },
     "require": {
-        "laravel/framework": "~5.1"
+        "laravel/framework": "^7.0"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*",
